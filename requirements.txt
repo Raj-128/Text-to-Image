@@ -1,0 +1,10 @@
+streamlit
+torch
+diffusers
+transformers
+accelerate
+Pillow
+opencv-python
+numpy
+nest_asyncio
+deep-translator
