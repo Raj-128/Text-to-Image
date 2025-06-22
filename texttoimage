@@ -201,4 +201,3 @@ if st.session_state["history"]:
             file_name=f"generated_image_{i}.jpg",
             mime="image/jpeg"
         )
-
